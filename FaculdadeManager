@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T22:46:36.751Z" agent="5.0 (Windows)" version="14.7.8" etag="MTKUyFJhUccSHgElTdAE" type="github"><diagram id="gEDmcxotELlhNP7wKwGI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-24T22:49:44.636Z" agent="5.0 (Windows)" etag="p6w1D8-sv5rbWJP7tdHH" version="14.7.8" type="github">
+  <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
+    <mxGraphModel dx="908" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3kxsLLfbnX52Ww2Bx00A-1" value="Aluno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3kxsLLfbnX52Ww2Bx00A-2" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kxsLLfbnX52Ww2Bx00A-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
