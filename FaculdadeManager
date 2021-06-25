@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T22:52:40.927Z" agent="5.0 (Windows)" etag="GWpgye11gP3-0F4-vSMH" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T22:55:23.834Z" agent="5.0 (Windows)" etag="ASP8vz1_sNbZPsmAqO_6" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
-    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,24 @@
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-12" value="&lt;b&gt;Ministra&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-13" value="&lt;b&gt;Gerencia&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-14" value="Curso" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-15" value="+ Id&#xa;+ Nome&#xa;+ Descrição&#xa;+ AlunosCursando&#xa;+ DepartamentoId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="C6lRe_w-ZHC4LfJJGHPz-14">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-16" value="&lt;b&gt;Controla&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-17" value="Aluno" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="390" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-18" value="+ Id&#xa;+ Nome&#xa;+ Descrição&#xa;+ AlunosCursando&#xa;+ DepartamentoId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="C6lRe_w-ZHC4LfJJGHPz-17">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
