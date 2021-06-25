@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T22:46:21.156Z" agent="5.0 (Windows)" etag="ccy_zxGilSMCPivUEY-P" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T22:49:28.686Z" agent="5.0 (Windows)" etag="Jb81Sw1A8c7M9IjXJoaf" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
     <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -98,22 +98,34 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-1" value="Professor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860" y="40" width="160" height="120" as="geometry" />
+          <mxGeometry x="940" y="40" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="C6lRe_w-ZHC4LfJJGHPz-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-4" value="Departamento" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="160" height="120" as="geometry" />
+          <mxGeometry x="650" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-5" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="C6lRe_w-ZHC4LfJJGHPz-4">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-6" value="Disciplina" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="890" y="200" width="160" height="120" as="geometry" />
+          <mxGeometry x="1050" y="250" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-7" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="C6lRe_w-ZHC4LfJJGHPz-6">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-8" value="&lt;b&gt;Pertence&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-11" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.019;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;ignoreEdge=0;orthogonalLoop=0;snapToPoint=0;backgroundOutline=0;" edge="1" parent="1" source="C6lRe_w-ZHC4LfJJGHPz-8" target="C6lRe_w-ZHC4LfJJGHPz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="240" as="sourcePoint" />
+            <mxPoint x="1010" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-12" value="&lt;b&gt;Ministra&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
