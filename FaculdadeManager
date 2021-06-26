@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T14:37:40.983Z" agent="5.0 (Windows)" etag="nDtg57j1hZNjyLtDvVt-" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T14:40:13.385Z" agent="5.0 (Windows)" etag="5ci1It85Wcf-VWMz2778" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,16 +359,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8HOisxMTdRX_vYp5bqpO-55" value="" style="endArrow=none;html=1;rounded=1;flowAnimation=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="400" as="sourcePoint" />
-            <mxPoint x="1820" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8HOisxMTdRX_vYp5bqpO-56" value="" style="endArrow=none;html=1;rounded=1;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1690" y="410" as="sourcePoint" />
             <mxPoint x="1830" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HOisxMTdRX_vYp5bqpO-55" value="" style="endArrow=none;html=1;rounded=1;flowAnimation=1;exitX=1;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="347.03999999999996" as="sourcePoint" />
+            <mxPoint x="1260" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="347" />
+              <mxPoint x="1470" y="347" />
+              <mxPoint x="1470" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HOisxMTdRX_vYp5bqpO-59" value="Pode ter ou ser um pré-requisito para" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8HOisxMTdRX_vYp5bqpO-55">
+          <mxGeometry x="-0.7143" y="1" relative="1" as="geometry">
+            <mxPoint x="152" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
