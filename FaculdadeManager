@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T14:02:24.287Z" agent="5.0 (Windows)" etag="-aOz0iry9WInLiZAtQZY" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T14:15:43.591Z" agent="5.0 (Windows)" etag="lSVJ5JITJrM5GUQQfJ3b" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
     <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -271,6 +271,21 @@
         <mxCell id="8HOisxMTdRX_vYp5bqpO-33" value="É ministrada por zero ou mais" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8HOisxMTdRX_vYp5bqpO-32">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HOisxMTdRX_vYp5bqpO-34" value="" style="endArrow=none;html=1;rounded=1;flowAnimation=1;exitX=1;exitY=0;exitDx=0;exitDy=0;orthogonal=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6lRe_w-ZHC4LfJJGHPz-14" target="C6lRe_w-ZHC4LfJJGHPz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="442" as="sourcePoint" />
+            <mxPoint x="1078" y="439.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="405" />
+              <mxPoint x="1040" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HOisxMTdRX_vYp5bqpO-35" value="É formado por zero ou m ais" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8HOisxMTdRX_vYp5bqpO-34">
+          <mxGeometry x="-0.1189" relative="1" as="geometry">
+            <mxPoint x="4" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
