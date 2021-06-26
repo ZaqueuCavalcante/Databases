@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T14:21:30.336Z" agent="5.0 (Windows)" etag="RUf7udn3-jRYpKTDE4ak" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T14:21:52.382Z" agent="5.0 (Windows)" etag="JRZqjykbDhF48eTmQmsJ" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
-    <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-1" value="Aluno" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="120" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="130" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-2" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="460" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-12" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="180" height="160" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-25" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="340" width="180" height="160" as="geometry" />
+          <mxGeometry x="80" y="530" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3kxsLLfbnX52Ww2Bx00A-25" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-38" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="100" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="100" y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3kxsLLfbnX52Ww2Bx00A-39" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="3kxsLLfbnX52Ww2Bx00A-38" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
