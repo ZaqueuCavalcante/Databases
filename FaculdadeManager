@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T14:29:49.135Z" agent="5.0 (Windows)" etag="ck0WJgM0WHeVOEDejMzp" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T14:30:06.327Z" agent="5.0 (Windows)" etag="rF7KnoPU8Enrfpkem1Es" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
     <mxGraphModel dx="813" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-17" value="Aluno" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;comic=0;moveCells=0;treeMoving=0;treeFolding=0;autosize=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="660" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-18" value="+ Id&#xa;+ Nome&#xa;+ Sobrenome&#xa;+ Email&#xa;+ CPF&#xa;+ Status&#xa;+ Sexo&#xa;+ TurmaId&#xa;+ CursoId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C6lRe_w-ZHC4LfJJGHPz-17" vertex="1">
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-18" value="+ Id&#xa;+ Nome&#xa;+ Sobrenome&#xa;+ Email&#xa;+ CPF&#xa;+ Status&#xa;+ Sexo&#xa;+ CursoId&#xa;+ TurmaId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C6lRe_w-ZHC4LfJJGHPz-17" vertex="1">
           <mxGeometry y="30" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-19" value="Turma" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
