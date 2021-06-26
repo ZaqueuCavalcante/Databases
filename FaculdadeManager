@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T15:32:01.229Z" agent="5.0 (Windows)" etag="s64Vi8MfWlU41Y2JQWe1" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T17:58:08.612Z" agent="5.0 (Windows)" etag="e-SURgJRs8wlB2WgYR-F" version="14.8.1" type="github">
   <diagram id="gEDmcxotELlhNP7wKwGI" name="Page-1">
     <mxGraphModel dx="791" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-25" value="Histórico" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="1260" y="660" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-26" value="+ Id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C6lRe_w-ZHC4LfJJGHPz-25" vertex="1">
+        <mxCell id="C6lRe_w-ZHC4LfJJGHPz-26" value="+ AlunoId" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C6lRe_w-ZHC4LfJJGHPz-25" vertex="1">
           <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C6lRe_w-ZHC4LfJJGHPz-30" value="Aula" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
